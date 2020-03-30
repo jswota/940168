@@ -1,0 +1,542 @@
+
+
+				
+	{
+
+  "assemblies": [
+
+    {
+
+      "TagID": 580164,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "B1000",
+
+      "Div": "C09"
+
+    },
+
+    {
+
+      "TagID": 580165,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "B1001",
+
+      "Div": "C09"
+
+    },
+
+    {
+
+      "TagID": 580163,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "B1002",
+
+      "Div": "C09"
+
+    },
+
+    {
+
+      "TagID": 580107,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "B1003",
+
+      "Div": "C09"
+
+    },
+
+    {
+
+      "TagID": 580161,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "B1004",
+
+      "Div": "C09"
+
+    },
+
+    {
+
+      "TagID": 580162,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "B1005",
+
+      "Div": "C09"
+
+    },
+
+    {
+
+      "TagID": 580136,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "B1008",
+
+      "Div": "D08"
+
+    },
+
+    {
+
+      "TagID": 580109,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "B1009",
+
+      "Div": "D08"
+
+    },
+
+    {
+
+      "TagID": 580177,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "B510",
+
+      "Div": "B09"
+
+    },
+
+    {
+
+      "TagID": 580133,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "B511",
+
+      "Div": "B09"
+
+    },
+
+    {
+
+      "TagID": 580178,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "B774",
+
+      "Div": "B09"
+
+    },
+
+    {
+
+      "TagID": 580176,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "B781",
+
+      "Div": "B09"
+
+    },
+
+    {
+
+      "TagID": 580135,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "B880",
+
+      "Div": "B09"
+
+    },
+
+    {
+
+      "TagID": 580134,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "B881",
+
+      "Div": "B09"
+
+    },
+
+    {
+
+      "TagID": 580190,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "B994",
+
+      "Div": "C08"
+
+    },
+
+    {
+
+      "TagID": 580179,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "B995",
+
+      "Div": "C09"
+
+    },
+
+    {
+
+      "TagID": 580180,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "B996",
+
+      "Div": "C09"
+
+    },
+
+    {
+
+      "TagID": 580158,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "D77",
+
+      "Div": "C09"
+
+    },
+
+    {
+
+      "TagID": 580159,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "D77",
+
+      "Div": "C09"
+
+    },
+
+    {
+
+      "TagID": 580160,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "D77",
+
+      "Div": "C09"
+
+    },
+
+    {
+
+      "TagID": 580105,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "S1091",
+
+      "Div": "C08"
+
+    },
+
+    {
+
+      "TagID": 580106,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "S1094",
+
+      "Div": "C08"
+
+    },
+
+    {
+
+      "TagID": 580157,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "S1121",
+
+      "Div": "C08"
+
+    },
+
+    {
+
+      "TagID": 580104,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "S1129",
+
+      "Div": "C08"
+
+    },
+
+    {
+
+      "TagID": 580121,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "S1132",
+
+      "Div": "C08"
+
+    },
+
+    {
+
+      "TagID": 580122,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "S1133",
+
+      "Div": "C08"
+
+    },
+
+    {
+
+      "TagID": 580125,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "S1136",
+
+      "Div": "C08"
+
+    },
+
+    {
+
+      "TagID": 580126,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "S1137",
+
+      "Div": "C08"
+
+    },
+
+    {
+
+      "TagID": 580127,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "S1138",
+
+      "Div": "C08"
+
+    },
+
+    {
+
+      "TagID": 580128,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "S1139",
+
+      "Div": "C08"
+
+    },
+
+    {
+
+      "TagID": 580155,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "S1143",
+
+      "Div": "C08"
+
+    },
+
+    {
+
+      "TagID": 580156,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "S1144",
+
+      "Div": "C08"
+
+    },
+
+    {
+
+      "TagID": 580189,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "S1154",
+
+      "Div": "C08"
+
+    },
+
+    {
+
+      "TagID": 580092,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "S1155",
+
+      "Div": "C08"
+
+    },
+
+    {
+
+      "TagID": 580093,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "S1156",
+
+      "Div": "C08"
+
+    },
+
+    {
+
+      "TagID": 585158,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "B5370",
+
+      "Div": "C08"
+
+    },
+
+    {
+
+      "TagID": 585161,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "B5373",
+
+      "Div": "D09"
+
+    },
+
+    {
+
+      "TagID": 585163,
+
+      "Project": "17-940",
+
+      "WorkOrder": 940168,
+
+      "Assembly": "B879",
+
+      "Div": "B08"
+
+    }
+
+  ]
+
+}
